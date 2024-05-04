@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![Xinyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirtycomputer)](https://github.com/dirtycomputer/github-readme-stats)
 
+[![Xinyuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dirtycomputer&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/dirtycomputer/github-readme-activity-graph)
+
